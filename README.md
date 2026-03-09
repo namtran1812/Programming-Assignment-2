@@ -20,7 +20,8 @@ This project implements and compares three cache eviction policies on the same r
 │   ├── file5.in
 │   ├── file6.in
 │   ├── file7.in
-│   └── file8.in
+│   ├── file8.in
+│   └── q2_bad_sequence.in
 │
 ├── tests/
 │   ├── file1.out
@@ -30,7 +31,8 @@ This project implements and compares three cache eviction policies on the same r
 │   ├── file5.out
 │   ├── file6.out
 │   ├── file7.out
-│   └── file8.out
+│   ├── file8.out
+│   └── q2_bad_sequence.out
 │
 └── README.md
 ```
